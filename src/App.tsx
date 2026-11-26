@@ -469,7 +469,7 @@ export default function App() {
 
             <div className="text-xs text-rose-400 flex items-center justify-center gap-1.5 font-medium">
               <Sparkles className="w-4 h-4" />
-              <span>ตั้งใจทำให้เธอคนเดียวเลยนะ</span>
+              <span>ตั้งใจทำให้คนเดียวเลยน้าา</span>
             </div>
           </div>
 
