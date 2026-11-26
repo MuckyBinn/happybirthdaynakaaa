@@ -122,7 +122,7 @@ const pageBgStyle: React.CSSProperties = {
 
 export default function App() {
   const [now, setNow] = useState<number>(Date.now());
-  const [devBypass, setDevBypass] = useState<boolean>(false);
+  const [devBypass] = useState<boolean>(false);
 
   const [candleLit, setCandleLit] = useState<boolean>(true);
   const [letterOpen, setLetterOpen] = useState<boolean>(false);
